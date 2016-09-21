@@ -20,6 +20,7 @@ NodeJS/Express setup
 6. Poslje instalacije Expressa moramo inicijalizirati Express aplikaciju sa komandom: ```express ime_aplikacije```
 
 7. Nakon toga sve što je potrebno je u folderu ime_aplikacije urediti ime_aplikacije.js file. Ovo je kod s kojim smo radili na prvom satu: 
+
 ~~~~    
 //Include expressa te dodavanje njegove funkcije u varijablu app
 var express = require('express');
@@ -46,6 +47,7 @@ app.listen(3030, function(){
 });
 ~~~~ 
 
-8. Kada ste uredili ime_aplikacije.js u cmd upišite: ```node ime_aplikacije``` Tebalo bi vam izbaciti Listening on port...
+8. Kada ste uredili ime_aplikacije.js u cmd upišite: ```node ime_aplikacije``` 
+Tebalo bi vam izbaciti Listening on port...
 
 	
