@@ -47,7 +47,7 @@ app.listen(3030, function(){
 });
 ~~~~ 
 
-8. Kada ste uredili ime_aplikacije.js u cmd upišite: ```node ime_aplikacije``` 
+Kada ste uredili ime_aplikacije.js u cmd upišite: ```node ime_aplikacije``` 
 Tebalo bi vam izbaciti Listening on port...
 
 	
