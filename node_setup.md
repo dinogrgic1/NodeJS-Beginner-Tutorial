@@ -49,7 +49,7 @@ app.listen(80, function(){
 });
 ~~~~ 
 
-7.  Kada ste uredili ime_aplikacije.js u cmd upišite: ```node ime_aplikacije``` (tom naredbom u ovom slučaju se pokreće server na portu 80) 
+7.Kada ste uredili ime_aplikacije.js u cmd upišite: ```node ime_aplikacije``` (tom naredbom u ovom slučaju se pokreće server na portu 80) 
 Tebalo bi vam izbaciti Listening on port...
 
 Preporuka : Instalirati module *nodemon (npm install nodemon --save*). Modul pokreće server i sam se brine za njegovo restartiranje(tj. kada se naprave promjene u *ime_aplikacije.js* server se restartira). U slučaju da se koristi *node ime_aplikacije.js* za pokretanje servera prilikom promjena u *ime_aplikacije.js* server se mora manualno restartirati.
